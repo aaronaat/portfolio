@@ -1,5 +1,7 @@
 body {
-
+  float:left;
+  margin-right:0px;
+  margin-left:6px;
   margin-top:13px;
   font-family:monospace;
   font-size:19px;
@@ -15,6 +17,12 @@ h2 {
   font-weight:bold;
   text-align:center;
 
+}
+
+h4 {
+  background-color:#06A;
+  margin:0px;
+  padding:2px;
 }
 
 
@@ -33,7 +41,7 @@ img.me {
 }
 
 .jumbotron {
-  width:70%;
+  width:50%;
   padding:3px;
 }
 
@@ -43,4 +51,16 @@ img.me {
 
 .loc {
   color:#079;
+}
+
+.about {
+  margin-bottom:22px;
+}
+
+.bg-info {
+  color:#065;
+  margin-bottom:19px;
+}
+ol {
+  font-size:14px;
 }
