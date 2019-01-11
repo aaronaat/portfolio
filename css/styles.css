@@ -28,4 +28,19 @@ h2 {
 img.me {
   width:75px;
   height:75px;
+  margin:9px;
+  border: 2px solid #ccc;
+}
+
+.jumbotron {
+  width:70%;
+  padding:3px;
+}
+
+.well {
+  padding:inherit;
+}
+
+.loc {
+  color:#079;
 }
