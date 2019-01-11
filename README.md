@@ -1,7 +1,9 @@
-# * Author: Aaron Taylor
+#### Aaron's Epicodus Portfolio
 
-## * Project: Portfolio
+* Author: Aaron Taylor
 
-### * Description: My Epicodus Portfolio Homepage
+* Project: Portfolio
 
-#### * Setup: Check it out at [aaronaat.github.io/portfolio](https://aaronaat.github.io/portfolio/)
+* Description: My Epicodus Portfolio Homepage
+
+* Setup: Check it out at [aaronaat.github.io/portfolio](https://aaronaat.github.io/portfolio/)
